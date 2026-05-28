@@ -1,0 +1,9 @@
+{
+  "name": "vshred-shopify-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Code-by-Zapier logic + tests for the V Shred Shopify 4x-daily Slack sales report",
+  "scripts": {
+    "test": "node test/run-tests.js"
+  }
+}
